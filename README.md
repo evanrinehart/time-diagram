@@ -1,4 +1,4 @@
-= Data.Time Treasure Map
+== Data.Time Treasure Map
 
 The standard Haskell library [Data.Time][1] finally gets some things right about
 working with dates and times on the computer. But with just the library
